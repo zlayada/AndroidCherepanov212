@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Spinner «Страны-города-улицы</string>
+    <string name="textScreen">Выберите адрес доставки:</string>
+    <string name="tCountry">Страна</string>
+    <string name="tCity">Город</string>
+    <string name="tHouse">Город</string>
+    <string name="tbuttonShowAddress">Показать адрес</string>
+
+
+    <string-array name="countries">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Беларусь</item>
+    </string-array>
+
+    <string-array name="r_cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+
+    <string-array name="u_cities">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+
+    <string-array name="b_cities">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Торжок</item>
+    </string-array>
+
+</resources>
